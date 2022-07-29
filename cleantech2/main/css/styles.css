@@ -2,7 +2,6 @@ nav {
     position: sticky;
     top: 0;
     text-align: center;
-    background-color: #6CA7E9;
 }
 a{
     text-decoration: none;
@@ -10,7 +9,7 @@ a{
     margin: 0 25px;
 }
 a:visited{
-    color: purple;
+    color: orange;
 }
 a:hover{
     color: lightblue;
@@ -24,7 +23,7 @@ a:hover{
 
 }
 body{
-    background-image: url("../background\ logo/background.jpg");
+    background-image: url("../background/CTSblack.PNg");
     background-size: cover;
     text-align: center
 }
@@ -37,17 +36,23 @@ body{
     width: 50%;
 }
 section, article{
-
-    color: blue;
-    height: 150px;
+    color: white;
+    height: 150px;;
+}
+p{
+    color: white
 }
 aside{
+    background-image: url();
+    background-size: cover;
     height: 306px;
     color: green;
 
 }
 footer{
     clear: both;
+    color: white;
+    background-color: black;
 }
 .column{
     float:left;
@@ -55,4 +60,16 @@ footer{
     width: 33.33%;
     padding: 10px;
     background-size: cover;
+}
+h1{
+    text-align: justify;
+    color: wheat;
+}
+h4{
+    margin: 10px;
+    font-size: medium;
+}
+ul{
+    text-align: left;
+    color: white;
 }
