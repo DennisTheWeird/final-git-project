@@ -1,13 +1,32 @@
+a{
+  text-decoration: none;
+}
 ul{
   list-style-type: none;
-  margin: 0;
-  right: 0;
-  left: 0;
-  top: 0;
 }
 li{
   display: inline;
   right: 0;
   top: 0;
   left: 0;
+}
+div{
+  display:grid ;
+  text-align: center;
+}
+.box iframe{
+  flex: 0 50%;
+  display: flex;
+}
+.right{
+  float: right;
+  width: 50%;
+}
+.left{
+  float: left;
+  width: 50%;
+}
+body{
+  background-image: url(/final-git-project/cleantech2/main/background/CTS.jpg);
+  background-size: cover;
 }

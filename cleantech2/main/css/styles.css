@@ -3,6 +3,9 @@ nav {
     top: 0;
     text-align: center;
 }
+img{
+    float: right;
+}
 a{
     text-decoration: none;
     color: yellow;
@@ -43,10 +46,8 @@ p{
     color: white
 }
 aside{
-    background-image: url();
-    background-size: cover;
     height: 306px;
-    color: green;
+    color: white;
 
 }
 footer{
