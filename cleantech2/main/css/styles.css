@@ -20,15 +20,11 @@ a:hover{
     padding: .5px;
 }
 .border{
-    border: 0.5px solid black ;
     margin: 5px;
     padding: 10 px;
-
 }
 body{
-    background-image: url("../background/CTSblack.PNg");
-    background-size: cover;
-    text-align: center
+    text-align: center;
 }
 .left{
     float: left;
@@ -52,8 +48,7 @@ aside{
 }
 footer{
     clear: both;
-    color: white;
-    background-color: black;
+    color: white;;
 }
 .column{
     float:left;
@@ -74,3 +69,11 @@ ul{
     text-align: left;
     color: white;
 }
+html { 
+    background: url(../background/CTSblacknew.png) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  

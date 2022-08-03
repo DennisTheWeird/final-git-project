@@ -1,28 +1,46 @@
 *{
     box-sizing: border-box;
 }
-body{
-    background-image: url("/final-git-project/cleantech2/main/background/CTS.jpg");
+/* body{
+    background-image: url("/final-git-project/cleantech2/main/background/CTSblacknew.png");
     background-size: cover;
-}
+    background-position: center;
+} */
 .border{
-    border:1px solid black;
     margin: 8px;
     text-align: justify;
 }
 p{
-    color: black;
+    color: rgb(255,255,255);
     text-align: center;
     margin: .5px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    
 }
 .column{
     float:left;
     height: 180px;
-    width: 33.%;
+    width: 22%;
     padding: 5px;
 } 
 h1{
-    color: black;
+    color:wheat ;
+}
+.right-side{
+    float: right;
+}
+footer{
+    clear: both;
+    color: white;
+}
+.center{
+    text-align: center;
+}
+html { 
+    background: url(../../background/CTSblacknew.png) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+a:visited{
+    color: orange;
 }
