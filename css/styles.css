@@ -1,7 +1,7 @@
 nav {
     position: sticky;
     top: 0;
-    text-align: center;
+    margin-left: 270px;
 }
 img{
     margin: 10px;
@@ -48,10 +48,6 @@ a{
 }
 a:visited{
     color: orange;
-}
-.border{
-    margin: 5px;
-    padding: 10 px;
 }
 body{
     text-align: center;
