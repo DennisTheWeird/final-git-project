@@ -53,3 +53,12 @@ a:visited{
 a{
     text-decoration: none;
 }
+button {
+    background-color: yellow;
+    font-size: x-large;
+    margin: 35px;
+    border: none;
+    cursor: grab;
+    margin-left: 35px ;
+    border-radius: 5px;
+}
