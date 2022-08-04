@@ -1,0 +1,67 @@
+/* body{
+    background-image: url("../background/CTSblacknew.png");
+    background-size: cover;
+    background-position: center;
+} */
+h1{
+    color: wheat
+}
+html { 
+    background: url(../cleantech2/main/background/CTSblacknew.png) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+  a:visited{
+    color: orange;
+}
+h1{
+    font-size: 320%;
+    text-align: justify;
+    color: wheat;
+}
+img{
+    margin: 10px;
+    float: right;
+}
+h2{
+    font-size: 240%;
+    color: black;
+}
+h3{
+    font-size: 160%;
+    color: black;
+}
+main{
+    margin-left: 500px;
+    width: 1000px;
+    background-color: white;
+    text-align: center;
+    border-radius: 30px
+}
+p{
+    font-size: x-large;
+    color: black;
+}
+footer{
+    font-size: 200%; 
+    text-align: center;
+    clear: both;
+    color: white;
+}
+a{
+    text-decoration: none;
+    color: yellow;
+    margin: 0 25px;
+    font-size: x-large
+}
+button {
+    background-color: yellow;
+    font-size: x-large;
+    margin: 35px;
+    border: none;
+    cursor: grab;
+    margin-left: 35px ;
+    border-radius: 5px;
+}

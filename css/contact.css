@@ -1,0 +1,87 @@
+a{
+  text-decoration: none;
+  color: orange;
+}
+ul{
+  text-align: left;
+  list-style-type: none;
+}
+aside{
+  text-align: center;
+  font-size: 200%
+}
+div{
+  display:grid ;
+  text-align: center;
+}
+.box iframe{
+  flex: 0 50%;
+  display: flex;
+}
+.right{
+  float: right;
+  width: 50%;
+}
+.left{
+  float: left;
+  width: 50%;
+}
+/* body{
+  background-image: url(/final-git-project/cleantech2/main/background/CTSblacknew.png);
+  background-size: cover;
+  background-position: center;
+} */
+.border{
+  padding: 10 px;
+}
+.right-side{
+  float: right;
+  margin: 10px;
+}
+h1{
+  font-size: 320%;
+  text-align: justify;
+  color: wheat;
+}
+div{
+  color: white;
+}
+html { 
+  background: url(../cleantech2/main/background/CTSblacknew.png) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+button {
+  font-size: xx-large;
+  margin: 35px;
+  border: none;
+  cursor: grab;
+  margin-left: 35px ;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+.fb-button{
+  color: white;
+  background-color: #3B5999;
+  border-radius: 50px;
+}
+.mail-button{
+  color: white;
+  background-color: rgb(98,0,209);
+  border-radius: 10px;
+}
+.call-button{
+  color: white;
+  background-color: grey;
+  border-radius: 15px;
+}
+footer{
+  font-size: 200%;
+  text-align: center;
+  color: white;
+  clear: both;
+}
